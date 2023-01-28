@@ -10,8 +10,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 # Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/html5-css-flexbox-mobilefirst-workflow-bootstrap-eSUDNQLHqg](https://www.frontendmentor.io/solutions/html5-css-flexbox-mobilefirst-workflow-bootstrap-eSUDNQLHqg)
-- Live Site URL: [https://jemaljanelidze.github.io/qr-code-component/](https://jemaljanelidze.github.io/qr-code-component/)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/html5-css-flexbox-mobilefirst-workflow-bootstrap-eSUDNQLHqg)
+- Live Site URL: [Click here](https://jemaljanelidze.github.io/qr-code-component/)
 
 # Built with
 
@@ -24,5 +24,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 # Author
 
 - Frontend Mentor - [@jemaljanelidze](https://www.frontendmentor.io/profile/jemaljanelidze)
-- linkedin - [@jemaljanelidze](https://www.linkedin.com/in/jemal-janelidze-a28546175/)
+- linkedin - [jemaljanelidze](https://www.linkedin.com/in/jemal-janelidze-a28546175/)
 
