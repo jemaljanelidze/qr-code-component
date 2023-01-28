@@ -10,7 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 # Links
 
-- Solution URL: [https://github.com/jemaljanelidze/qr-code-component.git](https://github.com)
+- Solution URL: [https://github.com/jemaljanelidze/qr-code-component.git](https://github.com/jemaljanelidze/qr-code-component.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 # Built with
@@ -24,4 +24,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 # Author
 
 - Frontend Mentor - [@jemaljanelidze](https://www.frontendmentor.io/profile/jemaljanelidze)
-- linkedin - [@jemaljanelidze](https://www.linkedin.com/yourusername)
+- linkedin - [@jemaljanelidze](https://www.linkedin.com/jemaljanelidze)
